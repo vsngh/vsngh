@@ -15,6 +15,6 @@ Constantly honing my skills in software development, data structures, algorithms
 
 ## 📫 How to Reach Me:
 - Email: [Reach me out here!](vaishalisinghp004@gmail.com)
-- LinkedIn: [Say "Hi!" here.]((https://www.linkedin.com/in/vaishali-singh-6459202a2/))
+- LinkedIn: [Say "Hi!" here.](https://www.linkedin.com/in/vaishali-singh-6459202a2/)
 
 Thanks for visiting my GitHub profile! Feel free to explore my repositories, and don't hesitate to open issues or contribute to any of my projects.
