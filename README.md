@@ -10,8 +10,8 @@ Constantly honing my skills in software development, data structures, algorithms
 ## 🌱 Learning:
 - **Programming Languages**: C++, Python, JavaScript
 - **Web Development**: HTML, CSS, JavaScript, React, Node.js
-- **Databases**: MySQL, MongoDB
-- **Tools & Technologies**: Git, Docker, TensorFlow, PyTorch, VS Code
+- **Databases**: MySQL
+- **Tools & Technologies**: Git, VS Code
 
 ## 📫 How to Reach Me:
 - Email: Reach me out at: vaishalisinghp004@gmail.com
