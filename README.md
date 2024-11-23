@@ -4,8 +4,8 @@ Welcome to my GitHub profile! I'm passionate about learning new technologies, so
 Constantly honing my skills in software development, data structures, algorithms, and more.
 
 ## 🔭 Currently Working On:
-- Building projects related to **Machine Learning**, **Data Science**, and **Full-Stack Development**.
-- Exploring **Cloud Computing**, **DevOps**, and **System Design** concepts.
+- Building projects related to **Full-Stack Development**, **Machine Learning** and **Data Science**.
+- Exploring **Web Development**, **Databases**, and **System Design** concepts.
 
 ## 🌱 Learning:
 - **Programming Languages**: C++, Python, JavaScript
@@ -14,7 +14,7 @@ Constantly honing my skills in software development, data structures, algorithms
 - **Tools & Technologies**: Git, Docker, TensorFlow, PyTorch, VS Code
 
 ## 📫 How to Reach Me:
-- Email: [Here](vaishalisinghp004@gmail.com)
-- LinkedIn: [Here](https://www.linkedin.com/in/your-profile)
+- Email: [Reach me out here!](vaishalisinghp004@gmail.com)
+- LinkedIn: [Say "Hi!" here.]([https://www.linkedin.com/in/your-profile])
 
 Thanks for visiting my GitHub profile! Feel free to explore my repositories, and don't hesitate to open issues or contribute to any of my projects.
