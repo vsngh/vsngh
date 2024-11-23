@@ -14,7 +14,7 @@ Constantly honing my skills in software development, data structures, algorithms
 - **Tools & Technologies**: Git, Docker, TensorFlow, PyTorch, VS Code
 
 ## 📫 How to Reach Me:
-- Email: [YourEmail@example.com](vaishalisinghp004@gmail.com)
-- LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)
+- Email: [Here](vaishalisinghp004@gmail.com)
+- LinkedIn: [Here](https://www.linkedin.com/in/your-profile)
 
 Thanks for visiting my GitHub profile! Feel free to explore my repositories, and don't hesitate to open issues or contribute to any of my projects.
