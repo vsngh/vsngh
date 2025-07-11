@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Vaishali! 👋🎨💻</h1>
+<h1 align="left"><strong>Hi there, I'm Vaishali! 👋🎨💻</strong></strong></h1>
 
 <p align="center">
 Passionate about crafting intuitive digital experiences through design and code.<br>
@@ -34,8 +34,8 @@ Frontend Developer | UI/UX Enthusiast | CSE Student @ PSIT | Lifelong Learner
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vsngh&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vsngh&layout=compact&theme=dark&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vsngh&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vsngh&theme=github-dark&hide_border=true" height="180" />
 </div>
 
 ---
