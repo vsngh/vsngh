@@ -1,20 +1,53 @@
-# Hi there, I'm Vaishali! 🎨💻
+<h1 align="center">Hi there, I'm Vaishali! 👋🎨💻</h1>
 
-Welcome to my GitHub profile! I'm passionate about creating beautiful, intuitive user experiences and building modern, responsive websites.  
-Always exploring new ideas in **UI/UX design**, **frontend development**, and **creative technologies**.
+<p align="center">
+Passionate about crafting intuitive digital experiences through design and code.<br>
+Frontend Developer | UI/UX Enthusiast | CSE Student @ PSIT | Lifelong Learner
+</p>
 
-## 🔭 Currently Working On:
-- Designing and developing sleek, user-centric **web interfaces**.
-- Exploring **UI/UX design principles**, **interaction design**, and **accessibility** best practices.
+---
 
-## 🌱 Learning:
-- **Frontend Technologies**: HTML5, CSS3, JavaScript, React.js
-- **Design Tools**: Figma, Adobe XD
-- **Web Development**: Responsive Design, CSS Frameworks (Tailwind CSS, Bootstrap)
-- **Other Skills**: Wireframing, Prototyping, Usability Testing, Git & GitHub
+### 🔭 Currently Working On
 
-## 📫 How to Reach Me:
-- Email: Reach me out at: vaishalisinghp004@gmail.com
-- LinkedIn: [Say "Hi!" here.](https://www.linkedin.com/in/vsngh)
+- 🔹 Building responsive, scalable web interfaces using **React.js**, **Next.js**, and **Tailwind CSS**
+- 🔹 Creating real-time web apps with **Spring Boot** and **WebSocket**
+- 🔹 Exploring **accessibility**, **design systems**, and **microinteractions**
 
-Thanks for stopping by! Feel free to check out my projects, share feedback, or collaborate on something exciting. Let's build experiences people love! ✨
+---
+
+### 🌱 Currently Learning
+
+- ⚛️ TypeScript + Next.js 14 + Turbopack
+- 🧠 Advanced UI/UX practices (Figma, Prototyping, Usability Testing)
+- 🛠 Backend with Spring Boot and RESTful APIs
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,java,py,cpp,spring,tailwind,bootstrap,mysql,postgres,firebase,git,github,vscode,figma,flask" />
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vsngh&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vsngh&layout=compact&theme=dark&hide_border=true" height="180" />
+</div>
+
+---
+
+### 📫 Let's Connect!
+
+<p align="center">
+  <a href="mailto:vaishalisinghp004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/vsngh"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/vsngh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center"><i>Thanks for visiting! Let's build something meaningful together. ✨</i></p>
