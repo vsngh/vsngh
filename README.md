@@ -1,29 +1,28 @@
-<h1 align="left"><strong>Hi there, I'm Vaishali! 👋🎨💻</strong></strong></h1>
+<h1 align="center"><strong>Hi there, I'm Vaishali! 👋🎨💻</strong></h1>
 
 <p align="center">
-Passionate about crafting intuitive digital experiences through design and code.<br>
-Frontend Developer | UI/UX Enthusiast | CSE Student @ PSIT | Lifelong Learner
+  Passionate about crafting intuitive digital experiences through design and code.<br>
+  <strong>Frontend Developer</strong> | <strong>UI/UX Enthusiast</strong> | <strong>CSE Student @ PSIT</strong> | <strong>Lifelong Learner</strong>
 </p>
 
 ---
 
-### 🔭 Currently Working On
+## 🔭 Currently Working On
 
-- 🔹 Building responsive, scalable web interfaces using **React.js**, **Next.js**, and **Tailwind CSS**
-- 🔹 Creating real-time web apps with **Spring Boot** and **WebSocket**
-- 🔹 Exploring **accessibility**, **design systems**, and **microinteractions**
+- 🔹 Building responsive, performant web interfaces using React.js, Tailwind CSS, and JavaScript  
+- 🔹 Developing full-stack web applications with the MERN stack (MongoDB, Express.js, React.js, Node.js)  
+- 🔹 Focusing on frontend architecture, reusable components, and seamless UI/UX interactions  
+
+## 🌱 Currently Learning
+
+- ⚛️ Advanced React patterns and performance optimization  
+- 📦 Express.js and MongoDB for scalable backend APIs  
+- 🎨 UI/UX design workflows with Figma, prototyping, and accessibility standards  
+- 🔄 Building RESTful APIs and integrating frontend with backend using Axios and Postman  
 
 ---
 
-### 🌱 Currently Learning
-
-- ⚛️ TypeScript + Next.js 14 + Turbopack
-- 🧠 Advanced UI/UX practices (Figma, Prototyping, Usability Testing)
-- 🛠 Backend with Spring Boot and RESTful APIs
-
----
-
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,java,py,cpp,spring,tailwind,bootstrap,mysql,postgres,firebase,git,github,vscode,figma,flask" />
@@ -31,7 +30,7 @@ Frontend Developer | UI/UX Enthusiast | CSE Student @ PSIT | Lifelong Learner
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vsngh&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="180" />
@@ -40,7 +39,7 @@ Frontend Developer | UI/UX Enthusiast | CSE Student @ PSIT | Lifelong Learner
 
 ---
 
-### 📫 Let's Connect!
+## 📫 Let's Connect!
 
 <p align="center">
   <a href="mailto:vaishalisinghp004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
